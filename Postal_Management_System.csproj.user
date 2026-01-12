@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Presentation\views\CustomerView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\DashboardView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\EmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\LoginView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\PackageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\AdminView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presentation\views\TransactConfigView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
