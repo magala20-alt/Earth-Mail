@@ -24,7 +24,7 @@ PostalManagementSystem/
 
 1.	Clone the Repository
    
-git clone https://github.com/yourusername/PostalManagementSystem.git
+git clone https://github.com/magala20-alt/Earth-Mail.git  //change here
 cd PostalManagementSystem
 
 2.	Update Connection String
